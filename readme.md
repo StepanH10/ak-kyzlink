@@ -6,7 +6,7 @@
 **Téma:** Webová prezentace advokátní kanceláře Mgr. Vladimíra Kyzlinka se sídlem v Praze 6.  
 Web představuje kancelář, její právní služby, tým advokátů, ceník a kontaktní informace.
 
-**Živý web:** [https://ak-kyzlink.cz](https://ak-kyzlink.cz)
+**Živý web:** https://stepanh10.github.io/ak-kyzlink/
 
 ---
 
